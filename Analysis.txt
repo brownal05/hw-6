@@ -1,0 +1,5 @@
+There is only one significant relationship found between lattitude and the four weather measurments that we analyzed. Temperature follows as one would expect, getting warmer as the lattidue approaches zero. 
+We can also garner from the temperature graph that in the January the northern lattitudes are very cold and the southern latidues are above freezing. This is consistant with winter being in the the northern hemisphere.
+There is nothing significant in the relationship betwen latitude and cloudiness. The Earth for the most part was not cloudy on this day.
+There is nothing significant in the relationship betwen latitude and wind speed. The wind was also consistently about 5 knots for most of the planet though the northnern hemisphere was slighlty more windy. Again this is consitent with winter. 
+
